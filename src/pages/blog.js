@@ -6,7 +6,7 @@ export default class blog extends Component {
     render() {
         return (
             <Layout>
-                <h1 className={{styles.blog}}>our blog page</h1>
+                <h1 className={styles.blog}>our blog page</h1>
             </Layout>
             )
         }
