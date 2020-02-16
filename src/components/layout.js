@@ -1,10 +1,11 @@
 import React from 'react'
-import Navbar from './Navbar'
+import Navbar from './navbar'
 // import 'bootstrap/dist/css/bootstrap.min.css'
 import './layout.css'
-// import './sass/layout.scss'
+// import '../sass/layout.scss'
 
-const layout = (children) => {
+
+const layout = ({ children }) => {
     return (
         <>
             <Navbar/>   

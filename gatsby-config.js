@@ -8,6 +8,6 @@ module.exports = {
   /* Your site config here */
   plugins:[
     `gatsby-plugin-sass`,
-    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-styled-components`
   ],
 }
